@@ -119,26 +119,7 @@ This project addresses these challenges by converting operational healthcare dat
 
 ![Average Patient Age Trend](dashboard-images/Average_Patient_Age_Trend.jpg)
 
----
 
-# 📁 Repository Structure
-
-```text
-Hospital-Emergency-Room-Business-Analysis
-│
-├── README.md
-├── Hospital Emergency Room Dashboard.pbix
-├── Hospital Emergency Room Data.csv
-│
-└── dashboard-images
-    ├── Hospital_Emergency_Room_Dashboard.jpg
-    ├── Daily_Patient_Trend.jpg
-    ├── Daily_Waiting_Time_Trend.jpg
-    ├── Patient_Satisfaction_Trend.jpg
-    └── Average_Patient_Age_Trend.jpg
-```
-
----
 
 # 🚀 Skills Demonstrated
 
