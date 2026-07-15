@@ -99,7 +99,7 @@ This project addresses these challenges by converting operational healthcare dat
 
 ## Hospital Emergency Room Dashboard
 
-![Hospital Emergency Room Dashboard](dashboard-images/Hospital_Emergency_Room_Dashboard..jpg)
+![Hospital Emergency Room Dashboard](dashboard-images/Hospital_Emergency_Room_Dashboard.jpg)
 
 ## Supporting Visualizations
 
