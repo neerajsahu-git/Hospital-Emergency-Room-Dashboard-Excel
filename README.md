@@ -1,6 +1,6 @@
 # Hospital-Emergency-Room-Dashboard-Excel
 
-> **Transforming Emergency Room data into strategic business insights that help healthcare leaders improve patient flow, monitor operational performance, and drive continuous process improvement.
+> Transforming Emergency Room data into strategic business insights that help healthcare leaders improve patient flow, monitor operational performance, and drive continuous process improvement.
 
 
 
